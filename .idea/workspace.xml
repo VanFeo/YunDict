@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0220b6a-2183-490f-b0fd-ed592234a11e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/YunDict.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9b983778-0ec5-4d75-b67d-98bb67f3b407.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Requirement Analysis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YunDict/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YunDict/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YunDict/dbmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YunDict/sever.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict_mysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -179,7 +162,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576837771913</updated>
       <workItem from="1576837773210" duration="1964000" />
-      <workItem from="1576893323147" duration="169000" />
+      <workItem from="1576893323147" duration="769000" />
     </task>
     <servers />
   </component>
